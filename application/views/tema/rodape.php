@@ -1,7 +1,7 @@
 
 <!--Footer-part-->
 <div class="row-fluid">
-    <div id="footer" class="span12"> <a href="https://github.com/AlarconPedro" target="_blank">
+    <div id="footer" class="span12"> <a href="https://github.com/AlarconPedro/TCC-V2.0" target="_blank">
         <?= date('Y'); ?> &copy; OSxpress - Pedro H. Alarcon </a></div>
   </div>
   <!--end-Footer-part-->
